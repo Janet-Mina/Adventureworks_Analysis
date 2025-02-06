@@ -1,15 +1,15 @@
 ### AdventureWorks Customer and Sales Analysis Report 
 
 ## Table of Contents
-1. [Overview][#overview]
-2. [Problem Statement][#problem_statement]
-3. [Tool][#tool]
-4. [Skills Demonstrated][#skills_demonstrated]
-5. [Modelling][#modelling]
-6. [Findings][#findings]
+1. [Overview](#overview)
+2. [Problem Statement](#problem_statement)
+3. [Tool](#tool)
+4. [Skills Demonstrated](#skills_demonstrated)
+5. [Modelling](#modelling)
+6. [Findings](#findings)
    - Customer Dashboard
    - Sales Dashboard
-7. [Recommendations][#recommendations]
+7. [Recommendations](#recommendations)
 
 ---
 ### Overview

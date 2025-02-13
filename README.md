@@ -4,12 +4,12 @@
 1. [Overview](#overview)
 2. [Problem statement](#problem_statement)
 3. [Tool](#tool)
-4. [Skills Demonstrated](#skills_demonstrated)
-5. [Data Modelling](#data_modelling)
+4. [Skills demonstrated](#skills_demonstrated)
+5. [Data modelling](#data_modelling)
 6. [Findings](#findings)
    - Customer Dashboard
    - Sales Dashboard
-7. [Recommendations](#recommendations)
+7. [Conclusion](#conclusion)
 
 ---
 ### Overview
@@ -34,7 +34,7 @@ The analysis addresses the following business questions:
 - Power BI (data cleaning, data visualization and dashboard creation)
 
 ---
-### Skills Demonstrated
+### Skills demonstrated
 - Segmentation: Grouping customers by income levels, gender, and education.
 - Created formulas: created different DAX formulas
 - Data visualization: Use of bar charts, pie charts, geographical maps, and KPIs.
@@ -172,7 +172,7 @@ The analysis has one fact table and different dimension tables.
    ![](img/sales_db2017.png)
 
 ---
-### 5. Recommendations
+### 5. Conclusion
 
 1. **Customer Targeting**
 - Strengthen marketing efforts to attract high-income customers.

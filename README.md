@@ -21,9 +21,9 @@ This report provides an analysis of AdventureWorks' customer and sales data from
 
 ---
 ### Problem Statement
-This analysis highlights key areas for AdventureWorks to focus on for growth and optimization. By leveraging the findings, the company can better target customers, enhance product offerings, and maximize revenue potential. 
-The analysis addresses the following business questions:
+Analyzed AdventureWorks sales data to uncover trends in product performance, customer behavior, and regional sales. 
 
+The analysis addresses the following business questions:
 1. Who are AdventureWorks' key customers, and what are their demographics?
 2. Which regions and product categories generate the most revenue?
 3. Are there opportunities to increase sales among underperforming customer groups or regions?

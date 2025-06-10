@@ -43,7 +43,7 @@ The analysis addresses the following business questions:
 ---
 ### Data modelling
 The analysis has one fact table and different dimension tables. 
-![](img/model.PNG)
+![](img\model.png)
 
 ---
 ### Findings
